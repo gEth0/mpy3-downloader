@@ -1,0 +1,3 @@
+pytubefix
+music_tag
+termcolor
